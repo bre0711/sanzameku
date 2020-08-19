@@ -1,0 +1,23 @@
+.wrapper {
+  background-color: dimgray;
+  width: 100vw;
+  height: 100vh;
+}
+
+.box-name {
+  display: flex;
+  justify-content: center;
+}
+
+.box-name a{
+  font-size: 25px;
+  color: #FAFAFA;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 8px 15px;
+}
+
+.top-image {
+  display: flex;
+  justify-content: center;
+}
